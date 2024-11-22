@@ -37,7 +37,7 @@ quoteElement.textContent = 'Life Happens, Coffee Helps.!';
 highlightTitles.forEach(title => {
     title.style.fontStyle = 'italic';
   });
-  
+    
 const highlightTitles = document.querySelectorAll('.highlight-title');
 
 
